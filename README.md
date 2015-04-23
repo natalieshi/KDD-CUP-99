@@ -16,4 +16,5 @@ Problem: Intrusion Detector Learning
          Method2: Use Java
         
         
-  Error Analysis: Probe/Normal
+ Features that differentiate different type of abnormal Internect connection: 1. Frequency 2. Destination port, 3. Location 4. Data volun : Does this different combination of feature contributes to the novel Internect intrusion? 
+ 
