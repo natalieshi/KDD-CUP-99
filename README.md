@@ -14,4 +14,6 @@ Problem: Intrusion Detector Learning
          2. Weka(ask them for toturial)
          Method1: Use R package(from the book)
          Method2: Use Java
-         
+        
+        
+  Error Analysis: Probe/Normal
