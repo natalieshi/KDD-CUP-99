@@ -1,4 +1,6 @@
 # KDD-CUP-99
+http://archive.ics.uci.edu/ml/machine-learning-databases/kddcup99-mld/kddcup99.html
+
 Problem: Intrusion Detector Learning 
   1.Four catogories: DOS,R2L,U2R,Probing
   2.Derived Feature: 
@@ -17,4 +19,8 @@ Problem: Intrusion Detector Learning
         
         
  Features that differentiate different type of abnormal Internect connection: 1. Frequency 2. Destination port, 3. Location 4. Data volun : Does this different combination of feature contributes to the novel Internect intrusion? 
+ 
+ DATASET: DO I NEED TO USE THE CLEANED DATASET BY THE PAPER?
+ 
+ 
  
