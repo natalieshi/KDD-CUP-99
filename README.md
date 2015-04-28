@@ -22,6 +22,6 @@ Problem: Intrusion Detector Learning
  
  DATASET: DO I NEED TO USE THE CLEANED DATASET BY THE PAPER?
  
- Method1: Using KNN
+ Method1:Ensemble method: 
    
  
